@@ -1,0 +1,16 @@
+# Build output
+task-manager
+task-manager.exe
+*.o
+*.obj
+
+# Local task storage
+tasks.txt
+tasks.txt.tmp
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
